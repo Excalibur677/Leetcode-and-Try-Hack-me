@@ -5,7 +5,6 @@
 
 using namespace std;
 
-// LeetCode's definition for a binary tree node.
 struct TreeNode {
     int val;
     TreeNode *left;
