@@ -91,6 +91,7 @@ int main() {
     
     vector<int> result = solver.assignEdgeWeights(edges, queries);
     
+    
     cout << "Results: ";
     for (int val : result) cout << val << " ";
     cout << endl;
